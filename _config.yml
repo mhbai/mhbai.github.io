@@ -1,7 +1,7 @@
 title: 白明弘的個人網頁
 description: GitHub Pages 範例網站
 baseurl: ""  # root repo 不需要
-theme: jekyll-theme-minimal  # 官方簡單主題，也可換其他
+theme: jekyll-theme-slate  # 官方簡單主題，也可換其他
 # 或其他支持的主题：
 # theme: jekyll-theme-cayman  # 官方簡單主題，也可換其他
 # jekyll-theme-minimal
