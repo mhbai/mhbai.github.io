@@ -1,0 +1,6 @@
+title: 我的網站
+description: 網站描述
+markdown: kramdown
+kramdown:
+  toc_levels: 2..3
+  auto_ids: true
