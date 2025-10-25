@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 首頁
+author_profile: true  # 显示作者侧边栏
 ---
 
 # 哈囉！這是我的 GitHub Pages 網站 🎉
