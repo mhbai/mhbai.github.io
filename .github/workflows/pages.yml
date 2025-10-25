@@ -1,0 +1,5 @@
+- name: Build site
+  run: |
+    mkdir -p _site
+    jekyll build -s . -d _site
+
