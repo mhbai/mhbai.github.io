@@ -5,13 +5,13 @@
 remote_theme: mmistakes/minimal-mistakes
 
 # Minimal Mistakes 的必要配置
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # 網站設置
 title: 你的網站標題
 name: 你的名字
 description: 網站描述
-url: "https://username.github.io"
+url: "https://mhbai.github.io"
 baseurl: "" # 如果是專案頁面
 
 # 作者資訊
@@ -25,23 +25,23 @@ author:
       url: "https://github.com/username"
 
 # 外掛程式
-plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+#plugins:
+#  - jekyll-remote-theme
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jekyll-include-cache
 
 # 其他配置
-paginate: 5
-paginate_path: /page:num/
+#paginate: 5
+#paginate_path: /page:num/
 
 # 預設值
 defaults:
   - scope:
       path: ""
-      type: default
+      type: posts
     values:
       layout: single
       author_profile: true
