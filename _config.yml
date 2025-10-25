@@ -41,7 +41,7 @@ paginate_path: /page:num/
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: default
     values:
       layout: single
       author_profile: true
