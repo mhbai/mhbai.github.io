@@ -3,24 +3,4 @@ layout: default
 title: 首頁
 ---
 
-這是首頁的內容。
-
-## 第一章節
-
-這是第一章節的內容。
-
-### 子章節 1.1
-
-詳細內容...
-
-### 子章節 1.2
-
-更多內容...
-
-## 第二章節
-
-這是第二章節的內容。
-
-## 第三章節
-
-這是第三章節的內容。
+- [SRT Subtitle Translator](https://mhbai.github.io/Subtitle-Translator-for-LM-Studio/)
