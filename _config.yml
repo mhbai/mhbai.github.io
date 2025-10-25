@@ -1,5 +1,5 @@
 title: mhbai
-description: GitHub Pages 
+# description: GitHub Pages 
 baseurl: ""  # root repo 不需要
 theme: jekyll-theme-slate  # 官方簡單主題，也可換其他
 # 或其他支持的主题：
