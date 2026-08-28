@@ -8,3 +8,4 @@ title: 首頁
 - [注音雨遊戲](https://mhbai.github.io/zhuyin-rain/)
 - [中文注音打字遊戲](https://mhbai.github.io/zhuyin2/)
 - [Word Search Puzzle](https://mhbai.github.io/word_search/)
+- [珠心算](https://github.com/mhbai/FlashAnzan)
