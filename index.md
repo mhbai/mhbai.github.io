@@ -9,3 +9,4 @@ title: 首頁
 - [中文注音打字遊戲](https://mhbai.github.io/zhuyin2/)
 - [Word Search Puzzle](https://mhbai.github.io/word_search/)
 - [珠心算](https://mhbai.github.io/FlashAnzan)
+- [假名侵略者](https://mhbai.github.io/kana-invaders/)
