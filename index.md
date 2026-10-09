@@ -10,3 +10,4 @@ title: 首頁
 - [Word Search Puzzle](https://mhbai.github.io/word_search/)
 - [珠心算](https://mhbai.github.io/FlashAnzan)
 - [假名特攻隊](https://mhbai.github.io/kana-invaders/)
+- [Japanese Word Search Puzzle](https://mhbai.github.io/jap_word_search/)
